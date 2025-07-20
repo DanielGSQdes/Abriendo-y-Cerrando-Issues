@@ -38,4 +38,4 @@ function getRandomColor() {
 }
 </script>
 
-**Este es un ejemplo sencillo de cómo HTML, CSS y JavaScript trabajan juntos para crear páginas web interactivas y divertida.**
+**Este es un ejemplo sencillo de cómo HTML, CSS y JavaScript trabajan juntos para crear páginas web interactivas y divertidas.**
